@@ -21,6 +21,7 @@ In the interest of fostering an open and welcoming environment, we as members of
 *   Public or private harassment
 *   Publishing others' private information, such as a physical or electronic address, without explicit permission
 *   Other conduct which could reasonably be considered inappropriate in a professional setting
+*   Targeted misgendering, deadnaming, or promotion of so-called "conversion therapy" is prohibited.
 
 ## Our Responsibilities
 
@@ -34,7 +35,7 @@ This Code of Conduct applies both within online spaces and in public spaces when
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Seattle CoffeeOps Leadership team at dougireton@gmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The leadership team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Seattle CoffeeOps Leadership team at seattlecoffeeops@gmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The leadership team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Leaders who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the Seattle CoffeeOps leadership team.
 
